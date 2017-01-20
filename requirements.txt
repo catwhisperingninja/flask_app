@@ -112,7 +112,6 @@ requests==2.11.1
 requests-oauthlib==0.7.0
 responses==0.5.1
 rope-py3k==0.9.4.post1
-ruamel-yaml===-VERSION
 scikit-image==0.12.3
 scikit-learn==0.17.1
 scipy==0.18.1
@@ -131,7 +130,6 @@ terminado==0.6
 toolz==0.8.0
 tornado==4.4.1
 traitlets==4.3.0
-tweepy==3.5.0
 unicodecsv==0.14.1
 wcwidth==0.1.7
 Werkzeug==0.11.11
