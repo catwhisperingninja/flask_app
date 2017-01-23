@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request
 import weather2
 import os
-# app = Flask(__name__)
-app = Flask()
+app = Flask(__name__)
+# app = Flask()
 
 @app.route("/")
 def index():
