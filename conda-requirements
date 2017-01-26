@@ -47,6 +47,8 @@ entrypoints=0.2.2=py35_0
 et_xmlfile=1.0.1=py35_0
 fastcache=1.0.2=py35_1
 filelock=2.0.6=py35_0
+flask=0.11.1=py35_0
+flask-cors=2.1.2=py35_0
 freetype=2.5.5=1
 get_terminal_size=1.0.0=py35_0
 gevent=1.1.2=py35_0
